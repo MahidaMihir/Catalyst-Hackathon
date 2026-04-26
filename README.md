@@ -27,9 +27,7 @@ Hiring managers waste hours on interviews only to discover skill gaps. Candidate
 
 ## 🎬 Demo
 
-> **Live URL:** [YOUR_RAILWAY_URL_HERE]
->
-> **Demo Video:** [YOUR_VIDEO_LINK_HERE]
+> **Demo Video:** [https://www.youtube.com/watch?v=8fn312nxRLA]
 
 ### Sample Flow
 
